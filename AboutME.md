@@ -1,10 +1,9 @@
 Yoo sup!
-My name is Ali and im a student developer.
+My name is Ali. I'm a full stack developer and attend college till 2025.
 I started developing simple to inermediate games WITHOUT using engines like unity or UE.
-I will post several random projects that are still helpful to get a understanding of certain stuff in projects and also 
-help you learn the object oriented programming which is also an important milestone.
-Languages that I use are mainly Python and Java but I can use C++ or C#. In Addition to that im starting learn Rust
-and plan to learn to develope some games with godot in the future.
+I will post several projects that are helpful to get an understanding of certain stuff, such as certain algorithms, functions etc...
+I am mainly focused on OOP but I additionally have experience with other programming languages.
+That Languages that I mainly use are Python, Java and JavaScript but I have basic knowledge in C++ and C#.
 
 There will be definetely some projects and simple games in the future that I will share with the purpose of helping 
 people find their interest in what I like to do.
