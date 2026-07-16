@@ -39,4 +39,4 @@ When I'm not staring at a code editor, you can usually find me:
 
 ### Connect with me 
 Feel free to explore my repositories, open an issue, or reach out if you want to collaborate on a project! 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ali-ayob) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ali-ayob) 
