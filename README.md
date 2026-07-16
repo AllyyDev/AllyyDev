@@ -2,8 +2,12 @@
 
 I am a passionate **Technical/Dual Apprentice in Software Development** at **DTS Systeme GmbH**, based in the **Greater Bielefeld Area**. I love building clean, efficient software and constantly expanding my technical toolkit.
 
-## 🛠️ Tech Stack & Skills
+## 📊 Overview
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AllyyDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🛠️ Tech Stack & Skills
 Here is a breakdown of the technologies and tools I work with, backed by my academic foundation and professional experience:
 
 ### Back-End & Languages
@@ -13,6 +17,7 @@ Here is a breakdown of the technologies and tools I work with, backed by my acad
 
 ### Database Management
 * **SQL** – Designing and querying databases to manage data efficiently.
+* **Opensearch/Elasticsearch** - Document-based search engine and DB 
 
 ### Tools & Workflow
 * **Git & GitHub** – Version control and collaborative development.
@@ -32,5 +37,6 @@ When I'm not staring at a code editor, you can usually find me:
 * 📚 **Reading** and exploring new ideas.
 * 🌲 **Going on walks** and exploring nature.
 
-### Connect with me
-Feel free to explore my repositories, open an issue, or reach out if you want to collaborate on a project!
+### Connect with me 
+Feel free to explore my repositories, open an issue, or reach out if you want to collaborate on a project! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ali-ayob) 
