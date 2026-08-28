@@ -21,7 +21,7 @@ Here is a breakdown of the technologies and tools I work with, backed by my acad
 
 ### Tools & Workflow
 * **Git & GitHub** – Version control and collaborative development.
-* **JIRA** – Agile project management and ticket tracking.
+* **Atlassian Toolkit** – Enterprise level experience with BitBucket, Jira, Confluence and Bamboo for project management, documentation, collaborative work and deployment
 
 ## 🚀 Experience & Education
 
