@@ -13,7 +13,7 @@ Here is a breakdown of the technologies and tools I work with, backed by my acad
 ### Back-End & Languages
 * **C# / ASP.NET Web API** – My core focus for building robust APIs and backend services.
 * **Java** – Academic foundation and core programming concepts.
-* **Python** – Scripting, automation, and general development.
+* **Python** – general development, little game development.
 
 ### Database Management
 * **SQL** – Designing and querying databases to manage data efficiently.
