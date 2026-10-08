@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Ayob! 👋
 
-I am a passionate **Technical/Dual Apprentice in Software Development** at **DTS Systeme GmbH**, based in the **Greater Bielefeld Area**. I love building clean, efficient software and constantly expanding my technical toolkit.
+I am a passionate **Technical/Dual Apprentice in Software Development** at **DTS Systeme GmbH**, based in the **Herford, Germany**. I love building clean, efficient software and constantly expanding my technical toolkit.
 
 ## 📊 Overview
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AllyyDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
