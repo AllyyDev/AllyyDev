@@ -7,8 +7,7 @@ I am a passionate **Technical/Dual Apprentice in Software Development** at **DTS
 
 ## 🛠️ Tech Stack & Skills
 Here is a breakdown of the technologies and tools I work with, backed by my academic foundation and professional experience:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllyyDev&layout=compact&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllyyDev&layout=compact&theme=radical)](https://github.com/AllyyDev/github-readme-stats)
 ### Back-End & Languages
 * **C# / ASP.NET Web API** – My core focus for building robust APIs and backend services.
 * **Java** – Academic foundation and core programming concepts.
