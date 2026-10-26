@@ -3,7 +3,7 @@
 I am a passionate **Technical/Dual Apprentice in Software Development** at **DTS Systeme GmbH**, based in the **Herford, Germany**. I love building clean, efficient software and constantly expanding my technical toolkit.
 
 ## 📊 Overview
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllyyDev&layout=compact&theme=tokyonight)
+
 
 ## 🛠️ Tech Stack & Skills
 Here is a breakdown of the technologies and tools I work with, backed by my academic foundation and professional experience:
